@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Terraform
+terraform_code/.terraform/
+terraform_code/terraform.tfstate
+terraform_code/terraform.tfstate.backup
+
+# Secrets
+secrets/
