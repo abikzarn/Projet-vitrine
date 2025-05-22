@@ -8,3 +8,7 @@ terraform_code/terraform.tfstate.backup
 
 # Secrets
 secrets/
+
+# Backup cv
+
+my-cv original/
