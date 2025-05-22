@@ -10,5 +10,8 @@ terraform_code/terraform.tfstate.backup
 secrets/
 
 # Backup cv
-
 my-cv-original/
+
+# Dossier code course my-cv
+my-cv/node_modules
+my-cv/.next%  
